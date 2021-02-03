@@ -15,6 +15,8 @@ export default function App() {
     return null;
   }
 
+  // const soundObject = new Audio.Sound();
+
   return (
     <Routes />
   );

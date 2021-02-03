@@ -6,7 +6,6 @@ import { Audio } from 'expo-av';
 
 export default function ForkidsGame() {
     const navigation = useNavigation();
-    const soundObject = new Audio.Sound();
 
     async function handleNavigateToForkidsGame() {
         navigation.navigate('ForkidsGame');
