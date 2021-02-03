@@ -1,4 +1,4 @@
-## Forkids
+## ForKIDS
 
 <div align="center">
     <img src="splash.jpg" width="550px"</img> 
